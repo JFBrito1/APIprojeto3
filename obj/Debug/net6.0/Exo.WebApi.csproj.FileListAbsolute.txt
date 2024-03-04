@@ -1085,3 +1085,4 @@ C:\Users\Devil\Desktop\Nova pasta (6)\Exo.WebApi\obj\Debug\net6.0\refint\Exo.Web
 C:\Users\Devil\Desktop\Nova pasta (6)\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\Devil\Desktop\Nova pasta (6)\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Devil\Desktop\Nova pasta (6)\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Devil\Desktop\Nova pasta (6)\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
